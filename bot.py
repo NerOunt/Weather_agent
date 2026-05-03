@@ -25,7 +25,7 @@ from utils import (
 from weather import CityNotFoundError, OpenWeatherClient, WeatherError
 
 
-START_TEXT = """Привет! Я бот погоды ☀️
+START_TEXT = """Привет! Я Погодный бот ☀️
 
 Я показываю погоду по запросу для любого города.
 
